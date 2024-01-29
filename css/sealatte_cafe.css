@@ -273,18 +273,19 @@ h2 { margin-top: 0; }
 .tm-form-control::placeholder { color: white; }
 
 .tm-btn-primary {
-    color: #099;
+    color: #486a6a;
     background-color: white;
     border: 0;
     padding: 12px 40px;
     font-size: 1.4rem;
     cursor: pointer;
     transition: all 0.3s ease; 
+    font-family: serif;
 }
 
 .tm-btn-primary:hover {
     color: white;
-    background-color: #099;
+    background-color: #486a6a;
 }
 
 .tm-align-right {
